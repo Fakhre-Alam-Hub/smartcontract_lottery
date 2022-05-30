@@ -3,4 +3,4 @@
 3. The lottery will select random winner
 
 
-<!-- Lottery deployed at 0xFE4d691bC2E73034D034dF0f04246A0cf2322b49 -->
+Lottery deployed at 0xFE4d691bC2E73034D034dF0f04246A0cf2322b49
